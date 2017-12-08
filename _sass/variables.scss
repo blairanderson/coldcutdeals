@@ -1,9 +1,9 @@
-$brand-color: hsla(8, 88%, 66%, 1);
-$default-hero-image: "/images/hero/box-top.jpg";
+$brand-color: #111111;
+$default-hero-image: '/images/hero/header.svg';
 
 // Breakpoints
-$tablet: "(min-width: 450px)";
-$above-tablet: "(min-width: 550px)";
-$mid-point: "(min-width: 850px)";
-$below-mid-point: "(max-width: 849px)";
-$desktop: "(min-width: 768px)";
+$tablet: '(min-width: 450px)';
+$above-tablet: '(min-width: 550px)';
+$mid-point: '(min-width: 850px)';
+$below-mid-point: '(max-width: 849px)';
+$desktop: '(min-width: 768px)';

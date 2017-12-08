@@ -1,24 +1,18 @@
 # ----
 # Site
 
-title: Fur
-url: "http://turquoise-rook.cloudvent.net/"
+title: ColdCutDeals
+url: "https://www.coldcutdeals.com/"
 baseurl:
 google_analytics_key:
-google_maps_javascript_api_key:
-snipcart_key: "NWNjOWZhYjctYmE1ZS00MDM3LThkNjUtZmE5M2NiMTU1NzAwNjM2MjYzNTE1MzM5ODg1ODkw"
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: Fur t-shirt store
+description: Cold Cut Deals - Find Hot Deals and Product Reviews
 author:
-  name: fur
-  email: fur@example.com
-  twitter: fur # twitter username without the @ symbol
-social:
-  name: Fur Template
-  links:
-    - https://github.com/CloudCannon/fur-jekyll-template
+  name: ColdCutDeals
+  email: deals@coldcutdeals.com
+  twitter: ColdCutDeals # twitter username without the @ symbol
 
 # -----
 # Build
@@ -26,6 +20,9 @@ social:
 collections:
   staff_members:
     _hide_content: true
+  deals:
+    _hide_content: true
+    output: true
   products:
     _hide_content: true
     output: true
@@ -39,6 +36,12 @@ defaults:
       type: "products"
     values:
       layout: "product"
+  -
+    scope:
+      path: ""
+      type: "deals"
+    values:
+      layout: "deal"
   -
     scope:
       path: ""
@@ -66,10 +69,6 @@ exclude:
 
 # -----------
 # CloudCannon
-
-garment_types:
-  - hat
-  - top
 
 social_icons:
   - Email
