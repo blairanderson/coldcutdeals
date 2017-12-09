@@ -1,6 +1,6 @@
 ---
 name: >
-  Powerextra 2 Pack 18V 3.0Ah NI-MH Battery Replacement For Ryobi ONE+ 18V P100 P101 Cordless Power Tools Ryobi 18V Battery
+  Battery Replacement For Ryobi ONE+, 2-Pack
 buy_now: "https://www.amazon.com/Powerextra-3-0Ah-Battery-Replacement-Cordless/dp/B01MQFSPU2?SubscriptionId=AKIAIA5RBQIWQVTCUEUQ&tag=coldcutdeals-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B01MQFSPU2"
 description_markdown: >-
 
@@ -23,4 +23,3 @@ you_save: "$70.00 (70%)"
 asin: "B01MQFSPU2"
 image: "https://images-na.ssl-images-amazon.com/images/I/41KIXvIgtcL.jpg"
 ---
-

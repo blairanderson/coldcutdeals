@@ -1,5 +1,5 @@
 ---
-name: "MalloMe 2-IN-1 LED Camping Lantern & Flashlight with 12 AA Batteries - Survival Kit Gear for Emergency, Hurricane, Storm, Outage (Black, Collapsible), 4 Pack"
+name: "LED Camping Lantern & Flashlight"
 buy_now: "https://www.amazon.com/MalloMe-Camping-Lantern-Flashlight-Batteries/dp/B074RZCDQ5?SubscriptionId=AKIAIA5RBQIWQVTCUEUQ&tag=coldcutdeals-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B074RZCDQ5"
 description_markdown: >-
 

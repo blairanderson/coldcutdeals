@@ -1,6 +1,6 @@
 ---
 name: >
-  XL Double Parachute Camping Hammock - Tree Portable with Max 1000 lbs Breaking Capacity - Lightweight Carabiners and Ropes Included For Backpacking, Camping, Hiking, Travel, Beach, Yard, 125" x 79"
+  BadAss Parachute Camping Hammock
 buy_now: "https://www.amazon.com/Double-Parachute-Camping-Hammock-Lightweight/dp/B01M14WOTA?psc=1&SubscriptionId=AKIAIA5RBQIWQVTCUEUQ&tag=coldcutdeals-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B01M14WOTA"
 description_markdown: >-
 
@@ -19,4 +19,3 @@ price: "$89.99"
 sku: "B01M14WOTA"
 image: "https://images-na.ssl-images-amazon.com/images/I/51nKXJoD72L.jpg"
 ---
-
