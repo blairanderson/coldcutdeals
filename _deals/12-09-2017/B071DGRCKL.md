@@ -1,0 +1,27 @@
+---
+title: > #shorten me
+  LED Solar Lights Outdoor Landscape Pathway Lighting – Sun Powered Yard Lights For Garden, Ground Path, Walkway, & Driveway, 8 Pack
+name: >
+  LED Solar Lights Outdoor Landscape Pathway Lighting – Sun Powered Yard Lights For Garden, Ground Path, Walkway, & Driveway, 8 Pack
+buy_now: "https://www.amazon.com/Lights-Outdoor-Landscape-Pathway-Lighting/dp/B071DGRCKL?SubscriptionId=AKIAIA5RBQIWQVTCUEUQ&tag=coldcutdeals-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B071DGRCKL"
+description_markdown: >-
+
+  - 8 PACK BEST VALUE - Get more for less with the Tadge Goods solar outdoor pathway lights. Your landscape yard lighting set will come with 8 super bright high powered, 15 lumen led, ready to use path lights in a gorgeous colored box packaged to perfection.
+
+  - BEAUTIFY YOUR GARDEN - Large and beautiful premium stainless steel design to make your garden look impeccable and brighten the pathway you walk up and down everyday
+
+  - HASSLE FREE INSTALLATION- Do it yourself easy installation. No wires, plugs, or headaches. Runs completely on solar power and automatically turns on at night and off during the day. Fully rechargeable means no more spending on replacement batteries
+
+  - ALL WEATHER READY - Rain, sleet, or snow, your solar walkway lights are designed to withstand the elements so you can count on them year-round. Note: must be exposed to sun to get a full charge
+
+  - 100% SATISFACTION GUARANTEE - Tadge Goods Solar Pathway Lights come with a 100% Satisfaction Guarantee. We back our customers and products without fail and are dedicated to address any product/service issues to ensure we deliver a 5-star experience for all our customers
+
+
+tweet_id_str: "939367936346742784"
+price: "$89.99"
+list_price: "$89.99"
+deal_price: "$31.99"
+you_save: "$58.00 (64%)"
+asin: "B071DGRCKL"
+image: "https://images-na.ssl-images-amazon.com/images/I/51kvzyAMz%2BL.jpg"
+---
