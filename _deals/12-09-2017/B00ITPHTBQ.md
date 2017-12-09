@@ -9,7 +9,7 @@ description_markdown: >-
   - Comes with all necessary adapters
   - For commercial kitchen or home
 
-price: '$155.77'
-sku: 'B00ITPHTBQ'
-image: 'https://images-na.ssl-images-amazon.com/images/I/41HDFqVFIiL.jpg'
+price: "$155.77"
+sku: "B00ITPHTBQ"
+image: "https://images-na.ssl-images-amazon.com/images/I/41HDFqVFIiL.jpg"
 ---
