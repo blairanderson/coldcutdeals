@@ -4,10 +4,15 @@ buy_now: "https://www.amazon.com/LASCO-09-7065-Replacement-Commercial-Dishwasher
 description_markdown: >-
 
   - Commercial dishwasher pre-rinse kit
+
   - Replacement part
+
   - Comes with pre rinse spray valve, 44-inch hose and insulated handle
+
   - Comes with all necessary adapters
+
   - For commercial kitchen or home
+
 
 price: "$155.77"
 sku: "B00ITPHTBQ"
