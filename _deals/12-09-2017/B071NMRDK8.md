@@ -1,0 +1,27 @@
+---
+title: > #shorten me
+  iPhone 7 Plus Battery Case, Alpatronix BX180plus (5.5-inch) 5000mAh Slim Rechargeable Protective Portable Charging Case for iPhone 7+ Plus Juice Bank Power Pack [Apple Certified Chip, iOS 11+] - Black
+name: >
+  iPhone 7 Plus Battery Case, Alpatronix BX180plus (5.5-inch) 5000mAh Slim Rechargeable Protective Portable Charging Case for iPhone 7+ Plus Juice Bank Power Pack [Apple Certified Chip, iOS 11+] - Black
+buy_now: "https://www.amazon.com/Alpatronix-BX180plus-Rechargeable-Protective-Certified/dp/B071NMRDK8?SubscriptionId=AKIAIA5RBQIWQVTCUEUQ&tag=coldcutdeals-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B071NMRDK8"
+description_markdown: >-
+
+  - MORE THAN 150% CHARGE: Powerful, rechargeable 4200mAh UL-certified internal battery for iPhone 7 Plus helps keep your phone charged the entire day. ***IMPORTANT*** ONLY compatible with iPhone 7 Plus (5.5-inch), Apple Airpods or any other wireless Bluetooth headphone accessories. NOT compatible with iPhone 8 Plus.
+
+  - APPLE CERTIFIED CONNECTOR: Works with all functions of your iPhone 7 Plus charging case. 100% compatible with all iOS versions, Apple Pay, and future iOS software updates. Charge and/or sync your iPhone while in the iPhone 7 Plus extended battery case using the included micro USB cable. This battery case has the highest industry regulatory certificates: CE, RoHS, and FCC.
+
+  - ULTRA SLIM PROTECTION: 360° scratch-guard, dual layer protection. Compact design minimizes bulk and weight for iPhone 7 Plus charger case. Top piece slide-in design adds better security and protection. Raised bezel and included tempered glass screen protector offers full frontal protection.
+
+  - EASY & SIMPLE INSTALLATION: Remove top piece and slide the iPhone 7 Plus to connect to the battery case's Apple certified chip. Once iPhone 7 Plus is seated, reconnect the top piece in the correct orientation and snap into place on all slides. To remove your iPhone 7 Plus, simply remove the top piece and slide your iPhone 7+ out. You can conveniently charge and sync both the battery case and iPhone 7 Plus to your Macbook, PC or laptop without having to remove the battery case.
+
+  - WHAT'S IN THE BOX (Retail Packaging): 1x iPhone 7+ Battery Case, 1x micro USB charging cable, 1x tempered glass screen protector, 1x user manual and our legendary, super-friendly customer service. Purchase with confidence! 2-Year Warranty ensures you are protected for the life of this product and 30-DAY MONEY-BACK GUARANTEE offers peace of mind, enabling you to return the product in case you don't like your purchase for any reason.
+
+
+tweet_id_str: "939355262384857088"
+price: "$109.95"
+list_price: "$149.95"
+deal_price: "$35.95"
+you_save: "$74.00 (67%)"
+asin: "B071NMRDK8"
+image: "https://images-na.ssl-images-amazon.com/images/I/51XaS1HvfBL.jpg"
+---
