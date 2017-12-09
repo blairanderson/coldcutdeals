@@ -10,6 +10,7 @@ layout: default
 						<a href="{{ page.url }}">
 							<img src="{{ page.image }}">
 						</a>
+						<div id="twittercontainer"></div>
 					</div>
 				</div>
 				<div class="product-details" id="add">
@@ -20,3 +21,32 @@ layout: default
 		</div>
 	</section>
 </div>
+
+
+<script>
+window.twttr = (function(d, s, id) {
+  var js,
+    fjs = d.getElementsByTagName(s)[0],
+    t = window.twttr || {};
+  if (d.getElementById(id)) return t;
+  js = d.createElement(s);
+  js.id = id;
+  js.src = 'https://platform.twitter.com/widgets.js';
+  fjs.parentNode.insertBefore(js, fjs);
+
+  t._e = [];
+  t.ready = function(f) {
+    t._e.push(f);
+  };
+
+  return t;
+})(document, 'script', 'twitter-wjs');
+{% if page.tweet_id_str %}
+twttr.ready(function() {
+  twttr.widgets.createTweet(
+    '{{page.tweet_id_str}}',
+    document.getElementById('twittercontainer')
+  );
+});
+{% endif %}
+</script>
