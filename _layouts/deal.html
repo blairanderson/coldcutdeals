@@ -14,7 +14,8 @@ layout: default
 					</div>
 				</div>
 				<div class="product-details" id="add">
-					<h3>{{ page.name }} - ${{ page.price }}</h3>
+					<strike>{{page.list_price}}</strike>
+					<h3>{{ page.name }} - {{ page.deal_price }}</h3>
 					{{ page.description_markdown | markdownify }}
 				</div>
 			</div>
