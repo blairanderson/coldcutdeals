@@ -1,7 +1,7 @@
 ---
 date: "2017-12-09 08:01:15"
 title: > #shorten me
-  Large Gold Fireplace Screen 4 Panel Ornate Wrought Iron Black Metal Fire Place Standing Gate Decorative Mesh Solid Baby Safe Proof Fence Steel Spark Guard Cover Outdoor Fireplace Tools Accessories
+  Large Gold Fireplace Screen
 name: >
   Large Gold Fireplace Screen 4 Panel Ornate Wrought Iron Black Metal Fire Place Standing Gate Decorative Mesh Solid Baby Safe Proof Fence Steel Spark Guard Cover Outdoor Fireplace Tools Accessories
 buy_now: "https://www.amazon.com/Fireplace-Wrought-Standing-Decorative-Accessories/dp/B019XFH8VQ?SubscriptionId=AKIAIA5RBQIWQVTCUEUQ&tag=coldcutdeals-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B019XFH8VQ"
@@ -26,4 +26,3 @@ you_save: "$78.70 (67%)"
 asin: "B019XFH8VQ"
 image: "https://images-na.ssl-images-amazon.com/images/I/61rC1CL06rL.jpg"
 ---
-

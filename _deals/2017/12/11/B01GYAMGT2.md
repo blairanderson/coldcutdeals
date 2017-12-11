@@ -1,6 +1,6 @@
 ---
 title: > #shorten me
-  Levoit Elora Himalayan Salt Lamp, Natural Himilian Hymalain Pink Salt Rock Lamps(8-11 lbs,7.5-10" Height),Hymilian Sea Salt Crystals Night Light with Touch Dimmer Switch,3 Bulbs,UL Cord & Gift Box
+  Himalayan Salt Lamp
 name: >
   Levoit Elora Himalayan Salt Lamp, Natural Himilian Hymalain Pink Salt Rock Lamps(8-11 lbs,7.5-10" Height),Hymilian Sea Salt Crystals Night Light with Touch Dimmer Switch,3 Bulbs,UL Cord & Gift Box
 buy_now: "https://www.amazon.com/Himalayan-Himilian-Hymalain-Hymilian-Crystals/dp/B01GYAMGT2?psc=1&SubscriptionId=AKIAIA5RBQIWQVTCUEUQ&tag=coldcutdeals-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B01GYAMGT2"

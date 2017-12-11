@@ -1,7 +1,7 @@
 ---
 date: "2017-12-09 08:01:20"
 title: > #shorten me
-  COSORI Smoothie Blender, 10-Piece Blender for Shakes and Smoothies, 23,000RPM Professional Personal Blender Maker with Cleaning Brush and Cups & Bottles (2x32 oz and 1x24 oz),800W  (Upgraded Version)
+  Legit Smoothie Blender
 name: >
   COSORI Smoothie Blender, 10-Piece Blender for Shakes and Smoothies, 23,000RPM Professional Personal Blender Maker with Cleaning Brush and Cups & Bottles (2x32 oz and 1x24 oz),800W  (Upgraded Version)
 buy_now: "https://www.amazon.com/COSORI-Smoothie-10-Piece-Smoothies-Professional/dp/B076DZJSHL?SubscriptionId=AKIAIA5RBQIWQVTCUEUQ&tag=coldcutdeals-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B076DZJSHL"

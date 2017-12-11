@@ -1,7 +1,7 @@
 ---
 date: "2017-12-09 08:01:16"
 title: > #shorten me
-  LED Solar Lights Outdoor Landscape Pathway Lighting – Sun Powered Yard Lights For Garden, Ground Path, Walkway, & Driveway, 8 Pack
+  LED Solar Lights Outdoor Landscape Pathway Lighting
 name: >
   LED Solar Lights Outdoor Landscape Pathway Lighting – Sun Powered Yard Lights For Garden, Ground Path, Walkway, & Driveway, 8 Pack
 buy_now: "https://www.amazon.com/Lights-Outdoor-Landscape-Pathway-Lighting/dp/B071DGRCKL?SubscriptionId=AKIAIA5RBQIWQVTCUEUQ&tag=coldcutdeals-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B071DGRCKL"
@@ -26,4 +26,3 @@ you_save: "$58.00 (64%)"
 asin: "B071DGRCKL"
 image: "https://images-na.ssl-images-amazon.com/images/I/51kvzyAMz%2BL.jpg"
 ---
-

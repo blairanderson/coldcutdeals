@@ -1,6 +1,6 @@
 ---
 title: > #shorten me
-  Kleenex 21272 Naturals Facial Tissue, 2-Ply, White, 95 Per Box (Case of 36 Boxes)
+  Kleenex Naturals Facial Tissue, 36-Boxes
 name: >
   Kleenex 21272 Naturals Facial Tissue, 2-Ply, White, 95 Per Box (Case of 36 Boxes)
 buy_now: "https://www.amazon.com/Kleenex-21272-Naturals-Facial-Tissue/dp/B0040ZOEZS?SubscriptionId=AKIAIA5RBQIWQVTCUEUQ&tag=coldcutdeals-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B0040ZOEZS"
@@ -25,3 +25,4 @@ you_save: "$48.89 (61%)"
 asin: "B0040ZOEZS"
 image: "https://images-na.ssl-images-amazon.com/images/I/51yflsUm9bL.jpg"
 ---
+

@@ -6,21 +6,23 @@ hero: Cold Cut Deals
 <div class="content" id="products">
 	<section>
 		<div class="container">
+			{% if jekyll.environment != 'production' %}
 			<ul class="product-list">
-				{% for product in site.deals reversed %}
-					<li>
-						<div class="styles">
-							<div class="style">
-								<a href="{{ product.url }}">
-									<img src="{{ product.image }}">
-								</a>
-							</div>
-						</div>
-						<div class="product-details">
-							<h4><a href="{{ product.url }}">{{ product.title }}</a></h4>
-							<p>{{ product.price }}</p>
-						</div>
-					</li>
+				{% for p in site.deals  %}
+					{% assign psize = p.title | size %}
+					{% if psize < 11 or psize > 80 %}
+						<p>Please edit this title <br>
+							<code>{{p.asin}}</code>
+						</p>
+					{% endif %}
+				{% endfor %}
+			</ul>
+			{% endif %}
+
+			<ul class="product-list">
+				{% assign deals = site.deals | sort: 'date' | reversed  %}
+				{% for product in deals  %}
+					{% include product-styles.html product=product %}
 				{% endfor %}
 			</ul>
 		</div>

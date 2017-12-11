@@ -18,24 +18,11 @@ author:
 # Build
 
 collections:
-  staff_members:
-    _hide_content: true
   deals:
-    _hide_content: true
     output: true
-  products:
-    _hide_content: true
-    output: true
-
 permalink: pretty
 
 defaults:
-  -
-    scope:
-      path: ""
-      type: "products"
-    values:
-      layout: "product"
   -
     scope:
       path: ""

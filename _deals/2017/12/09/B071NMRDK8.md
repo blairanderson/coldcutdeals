@@ -1,7 +1,7 @@
 ---
 date: "2017-12-09 08:01:17"
 title: > #shorten me
-  iPhone 7 Plus Battery Case, Alpatronix BX180plus (5.5-inch) 5000mAh Slim Rechargeable Protective Portable Charging Case for iPhone 7+ Plus Juice Bank Power Pack [Apple Certified Chip, iOS 11+] - Black
+  iPhone 7 Plus Battery Case
 name: >
   iPhone 7 Plus Battery Case, Alpatronix BX180plus (5.5-inch) 5000mAh Slim Rechargeable Protective Portable Charging Case for iPhone 7+ Plus Juice Bank Power Pack [Apple Certified Chip, iOS 11+] - Black
 buy_now: "https://www.amazon.com/Alpatronix-BX180plus-Rechargeable-Protective-Certified/dp/B071NMRDK8?SubscriptionId=AKIAIA5RBQIWQVTCUEUQ&tag=coldcutdeals-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B071NMRDK8"
@@ -26,4 +26,3 @@ you_save: "$74.00 (67%)"
 asin: "B071NMRDK8"
 image: "https://images-na.ssl-images-amazon.com/images/I/51XaS1HvfBL.jpg"
 ---
-
