@@ -1,0 +1,18 @@
+---
+layout: null
+---
+
+{
+	"items": [
+		{% for p in site.deals reversed limit: 50 %}
+		{
+			"title": "{{p.title | strip }}",
+			"asin": "{{p.asin}}",
+			"next": "{{p.next.asin | strip }}",
+			"nextTitle": "{{p.next.title | strip }}",
+			"previous": "{{p.previous.asin | strip }}",
+			"previousTitle": "{{p.previous.title | strip }}"
+		}{% if forloop.last %}{% else %},{% endif %}
+		{% endfor %}
+	]
+}

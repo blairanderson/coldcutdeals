@@ -40,16 +40,16 @@ ga('send', 'pageview');
 			</div>
 		</header>
 
-		<section class="hero">
-			<div>
+		<section class="hero pa2">
+			<h2 class="mw8 center">
 				{% if page.hero %}
-					<h2>{{ page.hero }}</h2>
+					{{ page.hero }}
 				{% elsif page.title %}
-					<h2>{{ page.title }}</h2>
+					{{ page.title }}
 				{% elsif page.name %}
-					<h2>{{ page.name }}</h2>
+					{{ page.name }}
 				{% endif %}
-			</div>
+			</h2>
 		</section>
 
 		{{ content }}
