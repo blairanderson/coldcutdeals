@@ -1,0 +1,28 @@
+---
+title: > #shorten me
+  Extech MN24-KIT Electrical Test Kit
+name: >
+  Extech MN24-KIT Electrical Test Kit
+date: "2017-12-11 19:46:03"
+buy_now: "https://www.amazon.com/Extech-MN24-KIT-Electrical-Test-Kit/dp/B002T1BGXI?psc=1&SubscriptionId=AKIAIA5RBQIWQVTCUEUQ&tag=coldcutdeals-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B002T1BGXI"
+description_markdown: >-
+
+  - MN24 Digital Multimeter with large, easy-to-read display measures AC/DC Voltage, DC Current, Resistance, and Continuity and features Diode and Battery tests.
+
+  - Included 40130 Non-Contact Voltage Detector detects AC Voltage from 100VAC to 600VAC with a Flashing  LED and Audible beeper.
+
+  - Included ET15 Receptacle Tester tests for faulty wiring in 3-wire outlets with a standard North American 3-prong Plug.
+
+  - Everything you need to stay safe and work smart on DIY home electrical projects.
+
+  - The MN24-KIT includes the MN24 Digital Multimeter, Multimeter Test Leads, 40130 Non-Contact Voltage Detector, ET15 Receptacle Tester, Storage Case,
+
+
+tweet_id_str: "940306704830484481"
+price: "$49.99"
+list_price: "$49.99"
+deal_price: "$20.50"
+you_save: "$29.49 (59%)"
+asin: "B002T1BGXI"
+image: "https://images-na.ssl-images-amazon.com/images/I/51p7FjfqSQL.jpg"
+---
