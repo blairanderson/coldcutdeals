@@ -1,4 +1,6 @@
 ---
+title: >
+  Battery Replacement For Ryobi ONE+, 2-Pack
 name: >
   Battery Replacement For Ryobi ONE+, 2-Pack
 date: "2017-12-09 08:01:06"

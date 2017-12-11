@@ -17,13 +17,7 @@ hero: Cold Cut Deals
 							</div>
 						</div>
 						<div class="product-details">
-							<h4><a href="{{ product.url }}">
-								{% if product.title %}
-									{{ product.title }}
-								{% else %}
-								{{ product.name | strip_html | truncate: 65 }}
-								{% endif %}
-							</a></h4>
+							<h4><a href="{{ product.url }}">{{ product.title }}</a></h4>
 							<p>{{ product.price }}</p>
 						</div>
 					</li>
