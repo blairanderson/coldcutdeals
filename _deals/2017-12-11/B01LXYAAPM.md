@@ -1,12 +1,11 @@
 ---
 title: > #shorten me
-  Ice Age 1-5 + a Mammoth Christmas Special Bundle [Blu-ray]
+  Ice Age Christmas Special Bundle [Blu-ray]
 name: >
   Ice Age 1-5 + a Mammoth Christmas Special Bundle [Blu-ray]
 date: "2017-12-11 18:09:00"
 buy_now: "https://www.amazon.com/Mammoth-Christmas-Special-Bundle-Blu-ray/dp/B01LXYAAPM?SubscriptionId=AKIAIA5RBQIWQVTCUEUQ&tag=coldcutdeals-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B01LXYAAPM"
 description_markdown: >-
-
   Ice Age 1-5 + a Mammoth Christmas Special Bundle [Blu-ray]
 tweet_id_str: "940282280806961152"
 price: "$99.99"
