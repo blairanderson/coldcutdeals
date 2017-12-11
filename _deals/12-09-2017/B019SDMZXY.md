@@ -1,4 +1,5 @@
 ---
+date: "2017-12-09 08:01:14"
 title: > #shorten me
   Bamboo Shower Bench
 name: >

@@ -1,6 +1,7 @@
 ---
+date: "2017-12-09 08:01:09"
 title: > #shorten me
-  Etekcity WiFi Smart Plug Mini Outlet with Energy Monitoring (2 Pack), Works with Amazon Alexa Echo, No Hub Required, 1 Minute to Set Up, White
+  WiFi Smart Plug
 name: >
   Etekcity WiFi Smart Plug Mini Outlet with Energy Monitoring (2 Pack), Works with Amazon Alexa Echo, No Hub Required, 1 Minute to Set Up, White
 buy_now: "https://www.amazon.com/Etekcity-Outlet-Energy-Monitoring-Required/dp/B06XSTJST6?SubscriptionId=AKIAIA5RBQIWQVTCUEUQ&tag=coldcutdeals-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B06XSTJST6"

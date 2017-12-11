@@ -1,6 +1,7 @@
 ---
+date: "2017-12-09 08:01:08"
 title: > #shorten me
-  Blossom 7 Smart Watering Controller, 7 Zone, WiFi, works with Amazon Alexa
+  Blossom Smart WIFI Watering Controller
 name: >
   Blossom 7 Smart Watering Controller, 7 Zone, WiFi, works with Amazon Alexa
 buy_now: "https://www.amazon.com/Blossom-Smart-Watering-Controller-Amazon/dp/B06XFR7J3D?SubscriptionId=AKIAIA5RBQIWQVTCUEUQ&tag=coldcutdeals-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B06XFR7J3D"

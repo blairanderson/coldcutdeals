@@ -1,6 +1,7 @@
 ---
 title: > #shorten me
-  VicTsing 400ml Aromatherapy Essential Oil Diffuser, Ultrasonic Cool Mist Humidifier with Wood Grain Design for Office, Room, Spa (Black)
+  Aromatherapy Essential Oil Diffuser
+date: "2017-12-09 08:01:07"
 name: >
   VicTsing 400ml Aromatherapy Essential Oil Diffuser, Ultrasonic Cool Mist Humidifier with Wood Grain Design for Office, Room, Spa (Black)
 buy_now: "https://www.amazon.com/VicTsing-Aromatherapy-Essential-Ultrasonic-Humidifier/dp/B06XCHY2X9?psc=1&SubscriptionId=AKIAIA5RBQIWQVTCUEUQ&tag=coldcutdeals-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B06XCHY2X9"
@@ -25,3 +26,4 @@ you_save: "$66.00 (66%)"
 asin: "B06XCHY2X9"
 image: "https://images-na.ssl-images-amazon.com/images/I/51z-5Rkc2HL.jpg"
 ---
+

@@ -1,4 +1,5 @@
 ---
+date: "2017-12-09 08:01:21"
 title: > #shorten me
   Pure Enrichment Pure Pulse Duo EMS and TENS Combo Device
 name: >
@@ -25,3 +26,4 @@ you_save: "$90.00 (60%)"
 asin: "B0109BBQMK"
 image: "https://images-na.ssl-images-amazon.com/images/I/41qEWa35wGL.jpg"
 ---
+

@@ -1,4 +1,5 @@
 ---
+date: "2017-12-09 08:01:19"
 title: > #shorten me
   CampOutDV Kids Binoculars Set 8x21 High Resolution - Explore Nature - Best For Bird Watching, Outdoor Exploration And Learning - With Adjustable Breakaway Neck Strap
 name: >
@@ -25,3 +26,4 @@ you_save: "$38.13 (64%)"
 asin: "B075F9MSVR"
 image: "https://images-na.ssl-images-amazon.com/images/I/51lM6OzJlUL.jpg"
 ---
+

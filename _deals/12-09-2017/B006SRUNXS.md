@@ -1,6 +1,7 @@
 ---
 title: > #shorten me
-  Kantek Tablet Stand for Apple iPad, iPad Air, iPad Mini, Galaxy Tab (7” and 9.7”), Kindle Fire (7” and HD 6) and most other 6-7” and 9.7” Tablets (TS710)
+  Tablet Stand for Apple iPad and Tablets
+date: "2017-12-09 08:01:06"
 name: >
   Kantek Tablet Stand for Apple iPad, iPad Air, iPad Mini, Galaxy Tab (7” and 9.7”), Kindle Fire (7” and HD 6) and most other 6-7” and 9.7” Tablets (TS710)
 buy_now: "https://www.amazon.com/Kantek-Tablet-Galaxy-Tablets-TS710/dp/B006SRUNXS?SubscriptionId=AKIAIA5RBQIWQVTCUEUQ&tag=coldcutdeals-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B006SRUNXS"
@@ -25,3 +26,4 @@ you_save: "$32.23 (60%)"
 asin: "B006SRUNXS"
 image: "https://images-na.ssl-images-amazon.com/images/I/41XVZrnWEtL.jpg"
 ---
+

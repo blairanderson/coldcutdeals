@@ -1,6 +1,7 @@
 ---
 name: >
   Battery Replacement For Ryobi ONE+, 2-Pack
+date: "2017-12-09 08:01:06"
 buy_now: "https://www.amazon.com/Powerextra-3-0Ah-Battery-Replacement-Cordless/dp/B01MQFSPU2?SubscriptionId=AKIAIA5RBQIWQVTCUEUQ&tag=coldcutdeals-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B01MQFSPU2"
 description_markdown: >-
 

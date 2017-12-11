@@ -1,6 +1,9 @@
 ---
+title: >
+  BadAss Parachute Camping Hammock
 name: >
   BadAss Parachute Camping Hammock
+date: "2017-12-09 08:01:05"
 buy_now: "https://www.amazon.com/Double-Parachute-Camping-Hammock-Lightweight/dp/B01M14WOTA?psc=1&SubscriptionId=AKIAIA5RBQIWQVTCUEUQ&tag=coldcutdeals-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B01M14WOTA"
 description_markdown: >-
 

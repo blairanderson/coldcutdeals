@@ -1,6 +1,6 @@
 ---
 title: > #shorten me
-  Cuisinart C77TR-15P Triple Rivet Block Set, 15-Piece
+  Cuisinart Triple Rivet Block Set
 name: >
   Cuisinart C77TR-15P Triple Rivet Block Set, 15-Piece
 buy_now: "https://www.amazon.com/Cuisinart-C77TR-15P-Triple-Rivet-15-Piece/dp/B00GIBK8HU?psc=1&SubscriptionId=AKIAIA5RBQIWQVTCUEUQ&tag=coldcutdeals-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B00GIBK8HU"
@@ -18,6 +18,7 @@ description_markdown: >-
 
 
 tweet_id_str: "940261269793275904"
+date: "2017-12-11 08:01:01"
 price: "$160.00"
 list_price: "$160.00"
 deal_price: "$55.24"

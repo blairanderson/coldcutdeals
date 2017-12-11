@@ -1,6 +1,7 @@
 ---
+date: "2017-12-09 08:01:10"
 title: > #shorten me
-  [25 LED] Solar Outdoor Patio Deck Lights – SUPER BRIGHT Outside Motion Sensor Security Sun Powered Lighting For Yard, Backyard, Pathway, & Driveway, 4 Pack
+  Solar Outdoor Patio Deck Lights
 name: >
   [25 LED] Solar Outdoor Patio Deck Lights – SUPER BRIGHT Outside Motion Sensor Security Sun Powered Lighting For Yard, Backyard, Pathway, & Driveway, 4 Pack
 buy_now: "https://www.amazon.com/Solar-Outdoor-Patio-Deck-Lights/dp/B06Y2G9HMM?SubscriptionId=AKIAIA5RBQIWQVTCUEUQ&tag=coldcutdeals-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B06Y2G9HMM"
