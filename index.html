@@ -7,7 +7,7 @@ hero: Cold Cut Deals
 	<section>
 		<div class="container">
 			<ul class="product-list">
-				{% for product in site.deals %}
+				{% for product in site.deals reversed %}
 					<li>
 						<div class="styles">
 							<div class="style">
@@ -17,7 +17,13 @@ hero: Cold Cut Deals
 							</div>
 						</div>
 						<div class="product-details">
-							<h4><a href="{{ product.url }}">{{ product.title | strip_html | truncate: 65 }}</a></h4>
+							<h4><a href="{{ product.url }}">
+								{% if product.title %}
+									{{ product.title }}
+								{% else %}
+								{{ product.name | strip_html | truncate: 65 }}
+								{% endif %}
+							</a></h4>
 							<p>{{ product.price }}</p>
 						</div>
 					</li>
