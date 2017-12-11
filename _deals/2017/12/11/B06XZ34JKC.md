@@ -1,0 +1,32 @@
+---
+title: > #shorten me
+  Levoit Elana Himalayan Salt Lamp, Natural Himilian Hymalain Pink Salt Rock Lamps(8-11 lbs,7.5-10"Height),Hymilian Sea Crystals Night Light with Touch Dimmer Switch,Best Christmas Decorations & Gifts
+name: >
+  Levoit Elana Himalayan Salt Lamp, Natural Himilian Hymalain Pink Salt Rock Lamps(8-11 lbs,7.5-10"Height),Hymilian Sea Crystals Night Light with Touch Dimmer Switch,Best Christmas Decorations & Gifts
+date: "2017-12-11 23:35:51"
+buy_now: "https://www.amazon.com/Elana-Himalayan-Himilian-Christmas-Decorations/dp/B06XZ34JKC?psc=1&SubscriptionId=AKIAIA5RBQIWQVTCUEUQ&tag=coldcutdeals-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B06XZ34JKC"
+description_markdown: >-
+
+  - Best Christmas Gifts & HOME DÉCOR: The most popular and trending soothing,calming & healthy salt lamp. With the Christmas Red Gift Package and Ribbon, it is your perfect choice as decorations & gifts under $40 for Christmas, holidays, birthdays, graduations, thank-yous, and special occasions.
+
+  - Premium Rubberwood base: Better than other wooden materials sold in the market.It is one of the most stable construction material for furniture. It is more durable, shrink-resistant,termite-resistant,crack-resistant,corrosion-resistant and support you a long lasting service life.
+
+  - Safer Touch Dimmer Switch(US 120v only): Definitely safer than other brands that has potential fire hazard.It comes with patented touch dimmer switch to adjust brightness and match the ambiance.It has 6.6ft power cord and two extra 15 watt bulbs.
+
+  - Soothing & Calming Lamp: Illuminate your room with a warm, pleasant & relaxing amber glow. It's a perfect choice in the center of a coffee table, desk. Great for meditation, yoga spaces, and as a night light. Also, you can try it as a bedside lamp.
+
+  - Customer Satisfaction: We always stand behind our products and we listen to our customers.If you have any question, just contact us through message and we will give you 100% satisfaction. 2 Years Warranty, 2 extra replacement bulbs included（the replacement bulb is in stock for purchase,just search:levoit light bulbs)
+
+  - The Natural Salt Night Light: When lit with the included 15 watt incandescent light bulb, it gives a warm amber glow, creating a romantic vibe and boost your mood. It also looks gorgeous like a lava lamp. Change the brightness of the bulb to give a different hue to the lighting area.
+
+  - 100% Purest & Highest Quality Himalayan Salt: Authentic and professionally hand carved Himalayan rock salt from Pakistan. UL-listed. FCC, CE, RoHS Approved.
+
+
+tweet_id_str: "940364534421884929"
+price: "$45.99"
+list_price: "$45.99"
+deal_price: "$29.99"
+you_save: "$40.00 (57%)"
+asin: "B06XZ34JKC"
+image: "https://images-na.ssl-images-amazon.com/images/I/519eRgxyB1L.jpg"
+---
