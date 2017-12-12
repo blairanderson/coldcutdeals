@@ -24,7 +24,6 @@ collections:
     output: true
 
 
-
 defaults:
   -
     scope:
@@ -44,8 +43,7 @@ defaults:
       layout: "default"
 
 jekyll-archives:
-  enabled:
-    - categories
+  enabled: all
 
 gems:
   - jekyll-sitemap

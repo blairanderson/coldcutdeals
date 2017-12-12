@@ -1,8 +1,8 @@
 ---
 title: > #shorten me
-  PURELL Advanced Hand Sanitizer Bottle -  Hand Sanitizer Gel , 2L Pump Bottle - 9625-02-EC (pack of 2)
+  PURELL Advanced Hand Sanitizer Bottle, 2-Liter, 2-Pack
 name: >
-  PURELL Advanced Hand Sanitizer Bottle -  Hand Sanitizer Gel , 2L Pump Bottle - 9625-02-EC (pack of 2)
+  PURELL Advanced Hand Sanitizer Bottle -  Hand Sanitizer Gel, 2L Pump Bottle, 2-Pack
 date: "2017-12-12 19:13:54"
 buy_now: "https://www.amazon.com/PURELL-Advanced-Hand-Sanitizer-Bottle/dp/B01BOWFPSY?psc=1&SubscriptionId=AKIAIA5RBQIWQVTCUEUQ&tag=coldcutdeals-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B01BOWFPSY"
 description_markdown: >-
