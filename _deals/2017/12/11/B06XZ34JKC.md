@@ -1,6 +1,6 @@
 ---
 title: > #shorten me
-  Levoit Elana Himalayan Salt Lamp, Natural Himilian Hymalain Pink Salt Rock Lamps(8-11 lbs,7.5-10"Height),Hymilian Sea Crystals Night Light with Touch Dimmer Switch,Best Christmas Decorations & Gifts
+  Himalayan Salt Lamp
 name: >
   Levoit Elana Himalayan Salt Lamp, Natural Himilian Hymalain Pink Salt Rock Lamps(8-11 lbs,7.5-10"Height),Hymilian Sea Crystals Night Light with Touch Dimmer Switch,Best Christmas Decorations & Gifts
 date: "2017-12-11 23:35:51"
@@ -30,3 +30,4 @@ you_save: "$40.00 (57%)"
 asin: "B06XZ34JKC"
 image: "https://images-na.ssl-images-amazon.com/images/I/519eRgxyB1L.jpg"
 ---
+
