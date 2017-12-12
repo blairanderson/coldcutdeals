@@ -1,6 +1,6 @@
 ---
 title: > #shorten me
-  Harman Kardon GO+PLAY Mini Black GO+PLAY Portable BT Speaker
+  Harman Kardon Mini Portable Speaker
 name: >
   Harman Kardon GO+PLAY Mini Black GO+PLAY Portable BT Speaker
 date: "2017-12-12 17:35:53"
@@ -26,3 +26,4 @@ you_save: "$280.00 (58%)"
 asin: "B01KWNWEEO"
 image: "https://images-na.ssl-images-amazon.com/images/I/51jP7yvlxXL.jpg"
 ---
+

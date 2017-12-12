@@ -1,6 +1,6 @@
 ---
 title: > #shorten me
-  Litom Solar Lights Outdoor 54 LED, Super Bright Wide Angle Solar Powered Light, Wireless Security Waterproof Wall Lights for Garage Patio Garden Driveway Yard RV (2 Pack)
+  Super Bright Wide Angle Outdoor LED Solar Lights
 name: >
   Litom Solar Lights Outdoor 54 LED, Super Bright Wide Angle Solar Powered Light, Wireless Security Waterproof Wall Lights for Garage Patio Garden Driveway Yard RV (2 Pack)
 date: "2017-12-12 02:06:20"
@@ -28,3 +28,4 @@ you_save: "$64.00 (63%)"
 asin: "B01L3CG2PA"
 image: "https://images-na.ssl-images-amazon.com/images/I/51MKOz-JGuL.jpg"
 ---
+
