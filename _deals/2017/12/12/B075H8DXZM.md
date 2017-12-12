@@ -1,6 +1,6 @@
 ---
 title: > #shorten me
-  Waterproof Speakers, Thpoplete Portable IPX6 Water Resistant Wireless Bluetooth 4.1 Speaker with Dual 5W Driver Up to 15 Hours Play Time, Built-in Mic / Super Loud Sound for Outdoor, iPhone, Android
+  Water Resistant Wireless Bluetooth Speaker
 name: >
   Waterproof Speakers, Thpoplete Portable IPX6 Water Resistant Wireless Bluetooth 4.1 Speaker with Dual 5W Driver Up to 15 Hours Play Time, Built-in Mic / Super Loud Sound for Outdoor, iPhone, Android
 date: "2017-12-12 01:35:30"
@@ -26,3 +26,4 @@ you_save: "$40.00 (57%)"
 asin: "B075H8DXZM"
 image: "https://images-na.ssl-images-amazon.com/images/I/51E27l4ZfcL.jpg"
 ---
+

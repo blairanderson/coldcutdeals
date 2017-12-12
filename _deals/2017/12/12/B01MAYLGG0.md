@@ -1,6 +1,6 @@
 ---
 title: > #shorten me
-  Sabatier Self-Sharpening Edgekeeper Pro 12-Piece Forged Triple Rivet Knife Block Set
+  Self-Sharpening Edgekeeper
 name: >
   Sabatier Self-Sharpening Edgekeeper Pro 12-Piece Forged Triple Rivet Knife Block Set
 date: "2017-12-12 18:39:45"
@@ -26,3 +26,4 @@ you_save: "$55.00 (55%)"
 asin: "B01MAYLGG0"
 image: "https://images-na.ssl-images-amazon.com/images/I/51Y8KE%2BU3oL.jpg"
 ---
+

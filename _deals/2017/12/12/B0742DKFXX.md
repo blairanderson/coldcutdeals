@@ -1,6 +1,6 @@
 ---
 title: > #shorten me
-  Cuisinart 57T-12TQ Non-Stick Cookware Set, Turquoise (12-Piece)
+  Cuisinart Non-Stick Cookware Set
 name: >
   Cuisinart 57T-12TQ Non-Stick Cookware Set, Turquoise (12-Piece)
 date: "2017-12-12 08:15:36"
@@ -24,3 +24,4 @@ you_save: "$210.01 (70%)"
 asin: "B0742DKFXX"
 image: "https://images-na.ssl-images-amazon.com/images/I/41rHixV9OLL.jpg"
 ---
+
