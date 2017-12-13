@@ -3,6 +3,17 @@ title: List of our Newest Cold Cut Deals - Huge Discounts
 hero: Cold Cut Deals
 ---
 
+{% if jekyll.environment != 'production' %}
+	<ul>
+		{% for p in site.deals  %}
+			{% assign size = p.title | size %}
+			{% if size > 60 or size < 11 %}
+				<li><code>{{p.asin}}</textarea></li>
+			{% endif %}
+		{% endfor %}
+	</ul>
+{% endif %}
+
 <div class="content" id="products">
 	<section>
 		<div class="container">

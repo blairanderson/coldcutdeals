@@ -1,6 +1,6 @@
 ---
 title: > #shorten me
-  Jabra Speak 510 Wireless Bluetooth Speaker for Softphone and Mobile Phone (U.S. Retail Packaging)
+  Jabra Wireless Bluetooth Speaker
 name: >
   Jabra Speak 510 Wireless Bluetooth Speaker for Softphone and Mobile Phone (U.S. Retail Packaging)
 date: "2017-12-11 22:50:30"
@@ -26,3 +26,4 @@ you_save: "$84.96 (57%)"
 asin: "B00AQUO5RI"
 image: "https://images-na.ssl-images-amazon.com/images/I/41M9WbK3MDL.jpg"
 ---
+
