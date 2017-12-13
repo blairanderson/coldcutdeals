@@ -1,12 +1,11 @@
 ---
 title: > #shorten me
-  Emarth Mechanical Feel Gaming Keyboard, 7 Colors LED Backlit Keyboard with 104-Key, USB Wired Keyboard with Anti-ghosting Keys for Laptop Computer - Black
+  Mechanical Feel Gaming Keyboard
 name: >
   Emarth Mechanical Feel Gaming Keyboard, 7 Colors LED Backlit Keyboard with 104-Key, USB Wired Keyboard with Anti-ghosting Keys for Laptop Computer - Black
 date: "2017-12-13 18:55:40"
 buy_now: "https://www.amazon.com/Emarth-Mechanical-Keyboard-Anti-ghosting-Computer/dp/B01A6CJBO2?SubscriptionId=AKIAIA5RBQIWQVTCUEUQ&tag=coldcutdeals-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B01A6CJBO2"
 description_markdown: >-
-
   - 【Mechanical Feel Gaming Keyboard】Flexible removable keycaps with a audible and pleasant click sound, laser-engraved keys are not easy to fade. This gaming keyboard is made of high quality ABS with non-slip steel base
 
   - 【7-Color Adjustable Backlit】7 colors led backlighting with 3 adjustable brightness levels to meet your own preference. 2 backlighting modes for your choose, press Fn+☼ key to exchange between the recycling breathing mode and the normal backlit mode. Choose from 7 colors to light up your computer keyboard press ☼ key and turn on/off the backlight
