@@ -1,6 +1,6 @@
 ---
 title: > #shorten me
-  Tripp Lite 6 Outlet Surge Protector Power Strip Clamp Mount 6ft Cord 2100 Joules Dual USB & INSURANCE (TLP606DMUSB)
+  6 Outlet Surge Protector Power Strip
 name: >
   Tripp Lite 6 Outlet Surge Protector Power Strip Clamp Mount 6ft Cord 2100 Joules Dual USB & INSURANCE (TLP606DMUSB)
 date: "2017-12-13 01:45:35"
@@ -30,3 +30,4 @@ you_save: "$18.57 (47%)"
 asin: "B00EUB7C8I"
 image: "https://images-na.ssl-images-amazon.com/images/I/41rKqlnttcL.jpg"
 ---
+

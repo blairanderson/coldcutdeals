@@ -1,6 +1,6 @@
 ---
 title: > #shorten me
-  Speedminton S600 Set - Original Speed ​​Badminton / Crossminton Starter Set including 2 rackets, 3 Speeder, Speedlights, Bag
+  Original Speed ​​Badminton Starter Set
 name: >
   Speedminton S600 Set - Original Speed ​​Badminton / Crossminton Starter Set including 2 rackets, 3 Speeder, Speedlights, Bag
 date: "2017-12-13 00:25:38"
@@ -26,3 +26,4 @@ you_save: "$24.49 (49%)"
 asin: "B01G1Q0AOC"
 image: "https://images-na.ssl-images-amazon.com/images/I/51ECK84ccTL.jpg"
 ---
+

@@ -1,6 +1,6 @@
 ---
 title: > #shorten me
-  Homitt Blackhead Remover, Blackhead Suction Machine with 4pcs Probes and Carry Bag to Clean the Pore and Promote Skin Health
+  Blackhead Remover
 name: >
   Homitt Blackhead Remover, Blackhead Suction Machine with 4pcs Probes and Carry Bag to Clean the Pore and Promote Skin Health
 date: "2017-12-13 18:51:54"
@@ -26,3 +26,4 @@ you_save: "$57.16 (71%)"
 asin: "B071NSCPPM"
 image: "https://images-na.ssl-images-amazon.com/images/I/41m7uASOdjL.jpg"
 ---
+

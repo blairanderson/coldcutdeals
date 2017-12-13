@@ -1,6 +1,6 @@
 ---
 title: > #shorten me
-  Hoover Commercial Vacuum Cleaner Shoulder Vac Pro Bagless Corded Lightweight Backpack Vacuum C2401
+  Hoover Shoulder Vacuum Cleaner
 name: >
   Hoover Commercial Vacuum Cleaner Shoulder Vac Pro Bagless Corded Lightweight Backpack Vacuum C2401
 date: "2017-12-13 01:06:12"

@@ -1,6 +1,6 @@
 ---
 title: > #shorten me
-  +Hot+ Gourmet 16 x 12 Inch Slate Cheese Board Set w/ 3 Forged Stainless Steel Cheese Knives & Soap Stone Chalk Premium Slate Cheese Tray and Cheese Platter
+  Gourmet Slate Stone Cheese Board
 name: >
   +Hot+ Gourmet 16 x 12 Inch Slate Cheese Board Set w/ 3 Forged Stainless Steel Cheese Knives & Soap Stone Chalk Premium Slate Cheese Tray and Cheese Platter
 date: "2017-12-13 00:16:48"
@@ -26,3 +26,4 @@ you_save: "$24.50 (49%)"
 asin: "B01B3LWPIY"
 image: "https://images-na.ssl-images-amazon.com/images/I/61Qn5WMemPL.jpg"
 ---
+

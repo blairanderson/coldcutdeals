@@ -1,6 +1,6 @@
 ---
 title: > #shorten me
-  For Raspberry PI 3 Generation TFT Touch Screen, Kuman 3.5 Inch TFT LCD Display Monitor Support all Raspberry PI System, Video Movie Play, Arcade Game, HDMI Audio Input SC6A (3.5'' HDMI Screen)
+  Touch Screen For Raspberry PI 3
 name: >
   For Raspberry PI 3 Generation TFT Touch Screen, Kuman 3.5 Inch TFT LCD Display Monitor Support all Raspberry PI System, Video Movie Play, Arcade Game, HDMI Audio Input SC6A (3.5'' HDMI Screen)
 date: "2017-12-13 01:25:48"
@@ -26,3 +26,4 @@ you_save: "$28.00 (48%)"
 asin: "B072Q3VRXT"
 image: "https://images-na.ssl-images-amazon.com/images/I/51MCNPya5kL.jpg"
 ---
+
