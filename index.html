@@ -18,9 +18,10 @@ hero: Cold Cut Deals
 	<section>
 		<div class="container">
 			<ul class="product-list">
-				{% for p in site.deals reversed limit: 50  %}
-					{% include product-styles.html product=p %}
-				{% endfor %}
+		    {% assign sorted = (site.deals | sort: 'date') | reverse %}
+		    {% for p in sorted %}
+		    {% include product-styles.html product=p %}
+		    {% endfor %}
 			</ul>
 		</div>
 	</section>
