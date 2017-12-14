@@ -23,7 +23,7 @@ layout: default
 				</div>
 				<div class="product-details" id="add">
 					<strike>{{page.list_price}}</strike>
-					<h3 class="ma0 pa0">{{ page.deal_price }}</h3>
+					<h3 class="ma0 pa0"><em><small>Last time we checked:</small></em> {{ page.deal_price }}</h3>
 					<a href="{{page.buy_now}}" class="f6 link dim no-underline br2 ba bw1 ph3 pv2 mb2 dib dark-green">Check Latest Price on Amazon</a>
 					<h3>{{ page.name }}</h3>
 					<div>{{ page.description_markdown | markdownify }}</div>
