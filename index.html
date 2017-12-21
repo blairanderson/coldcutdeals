@@ -22,7 +22,7 @@ layout: default
 
 			<ul class="product-list">
 				{% for post in paginator.posts %}
-					{% include product-styles.html product=post %}
+					{% include product-styles.html product=post catlink=true %}
 				{% endfor %}
 			</ul>
 

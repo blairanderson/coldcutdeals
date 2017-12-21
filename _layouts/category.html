@@ -1,0 +1,16 @@
+---
+layout: default
+---
+<div class="content" id="products">
+	<section>
+		<div class="container">
+			<ul class="product-list">
+				{% for post in site.posts %}
+          {% if post.categories contains page.category %}
+            {% include product-styles.html product=post  %}
+          {% endif %}
+				{% endfor %}
+			</ul>
+		</div>
+	</section>
+</div>
