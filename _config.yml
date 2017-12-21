@@ -27,20 +27,12 @@ collections:
 defaults:
   -
     scope:
-      path: ""
-      type: "deals"
+      type: "posts"
     values:
-      layout: "deal"
-  -
-    scope:
-      path: ""
-    values:
-      layout: "page"
-  -
-    scope:
-      path: "index.html"
-    values:
-      layout: "default"
+      layout: "post"
+
+paginate: 30
+paginate_path: "/deals/page:num/"
 
 jekyll-archives:
   enabled: all
@@ -48,6 +40,7 @@ jekyll-archives:
 gems:
   - jekyll-sitemap
   - jekyll-seo-tag
+  - jekyll-paginate
 
 exclude:
   - Gemfile

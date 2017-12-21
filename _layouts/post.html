@@ -1,0 +1,84 @@
+---
+layout: default
+---
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@{{site.author.twitter}}" />
+<meta name="twitter:creator" content="@{{site.author.twitter}}" />
+<meta property="og:url" content="{{page.url}}" />
+<meta property="og:title" content="{{page.title}}" />
+<meta property="og:description" content="{{page.excerpt}}" />
+<meta property="og:image" content="{{page.image}}" />
+
+<div class="content">
+	<div class="pv3 pv5-ns">
+		<div class="container">
+			<div class="product-container">
+				<div class="styles">
+					<div class="style">
+						<a href="{{page.buy_now}}">
+							<img src="{{ page.image }}">
+						</a>
+					</div>
+					<iframe src="//rcm-na.amazon-adsystem.com/e/cm?o=1&p=49&l=ur1&category=amazonhomepage_2017&f=ifr&linkID=9f79bdd946360f40e671b77ee43d3e4a&t=coldcutdeals-20&tracking_id=coldcutdeals-20" width="300" height="600" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
+				</div>
+				<div class="product-details" id="add">
+					<strike>{{page.list_price}}</strike>
+					<h3 class="ma0 pa0"><em><small>Last time we checked:</small></em> {{ page.deal_price }}</h3>
+					<a href="{{page.buy_now}}" class="f6 link dim no-underline br2 ba bw1 ph3 pv2 mb2 dib dark-green">Check Latest Price on Amazon</a>
+					<h3>{{ page.name }}</h3>
+					<div>{{ page.description_markdown | markdownify }}</div>
+					<div id="twittercontainer"></div>
+				</div>
+			</div>
+		</div>
+	</section>
+</div>
+
+<script type="text/javascript">
+amzn_assoc_ad_type = 'link_enhancement_widget';
+amzn_assoc_tracking_id = 'coldcutdeals-20';
+amzn_assoc_linkid = 'b57561b5ab224eefc0dbb2e89e828d32';
+amzn_assoc_placement = '';
+amzn_assoc_marketplace = 'amazon';
+amzn_assoc_region = 'US';
+</script>
+<script src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&Operation=GetScript&ID=OneJS&WS=1&MarketPlace=US"></script>
+
+
+<h2 class="tc mb0 pb0">More COLD CUT DEALS</h2>
+<div class="container">
+	<ul class="product-list">
+		{% for p in site.deals reversed limit:10 %}
+			{% if p.asin != page.asin %}
+				{% include product-styles.html product=p %}
+			{% endif %}
+		{% endfor %}
+	</ul>
+</div>
+{% if page.tweet_id_str %}
+<script>
+window.twttr = (function(d, s, id) {
+  var js,
+    fjs = d.getElementsByTagName(s)[0],
+    t = window.twttr || {};
+  if (d.getElementById(id)) return t;
+  js = d.createElement(s);
+  js.id = id;
+  js.src = 'https://platform.twitter.com/widgets.js';
+  fjs.parentNode.insertBefore(js, fjs);
+
+  t._e = [];
+  t.ready = function(f) {
+    t._e.push(f);
+  };
+
+  return t;
+})(document, 'script', 'twitter-wjs');
+twttr.ready(function() {
+  twttr.widgets.createTweet(
+    '{{page.tweet_id_str}}',
+    document.getElementById('twittercontainer')
+  );
+});
+</script>
+{% endif %}

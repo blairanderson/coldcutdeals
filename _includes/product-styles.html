@@ -8,5 +8,8 @@
 	</div>
 	<div class="product-details">
 		<h4><a href="{{ include.product.url }}">{{ include.product.title }}</a></h4>
+		{% if include.product.categories %}
+		<p>{{include.product.categories}}</p>
+		{% endif %}
 	</div>
 </li>

@@ -1,28 +1,45 @@
 ---
 title: List of our Newest Cold Cut Deals - Huge Discounts
 hero: Cold Cut Deals
+layout: default
 ---
-
-{% if jekyll.environment != 'production' %}
-	<ul>
-		{% for p in site.deals  %}
-			{% assign size = p.title | size %}
-			{% if size > 60 or size < 11 %}
-				<li><code>{{p.asin}}</textarea></li>
-			{% endif %}
-		{% endfor %}
-	</ul>
-{% endif %}
 
 <div class="content" id="products">
 	<section>
 		<div class="container">
+			{% if false and jekyll.environment != 'production' %}
+			<div>
+				<ul>
+					{% for p in site.posts  %}
+						{% assign size = p.title | size %}
+						{% if size > 60 or size < 11 %}
+							<li><code>{{p.asin}}</textarea></li>
+						{% endif %}
+					{% endfor %}
+				</ul>
+			</div>
+			{% endif %}
+
 			<ul class="product-list">
-		    {% assign sorted = (site.deals | sort: 'date') | reverse %}
-		    {% for p in sorted %}
-		    {% include product-styles.html product=p %}
-		    {% endfor %}
+				{% for post in paginator.posts %}
+					{% include product-styles.html product=post %}
+				{% endfor %}
 			</ul>
+
+			<!-- Pagination links -->
+			<div class="tc cf mv2">
+				{% if paginator.previous_page %}
+					<a href="{{ paginator.previous_page_path }}" class="link ba b--blue bg-blue white pa2 mr2">← Previous</a>
+				{% else %}
+					<span class="link ba b--near-black near-black pa2 mr2">Previous</span>
+				{% endif %}
+				<span class="link ba b--near-black near-black pa2 mr2 ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
+				{% if paginator.next_page %}
+					<a rel="next" href="{{ paginator.next_page_path }}" class="link ba b--blue bg-blue white pa2 mr2">Next →</a>
+				{% else %}
+					<span class="link ba near-black b--near-black pa2 mr2">Next</span>
+				{% endif %}
+			</div>
 		</div>
 	</section>
 </div>
