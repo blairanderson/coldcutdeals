@@ -27,16 +27,6 @@ layout: default
 				</ul>
 			</div>
 			{% endif %}
-
-			<style media="screen">
-				.PS4Deals {
-					background-color: blue;
-				}
-				.GoldBox {
-					background: gold;
-				}
-
-			</style>
 			<ul class="product-list">
 				{% for post in paginator.posts %}
 					{% include product-styles.html product=post catlink=true %}
