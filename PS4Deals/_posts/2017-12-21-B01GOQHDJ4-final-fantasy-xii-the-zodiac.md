@@ -1,5 +1,5 @@
 ---
-title: '"FINAL FANTASY XII: THE ZODIAC AGE - $24.99 AT AMAZON" - #PS4Deals'
+title: "PlayStation FINAL FANTASY XII ZODIAC AGE"
 name: 'Final Fantasy XII: The Zodiac Age - PlayStation 4'
 date: '2017-12-21 18:45:34'
 buy_now: >-
@@ -19,8 +19,8 @@ description_markdown: |+
 
 tweet_id_str: '943915362915176448'
 price: $49.99
-you_save: ''
+you_save: '$24.99 (50%)'
 asin: B01GOQHDJ4
 image: 'https://images-na.ssl-images-amazon.com/images/I/51MepihEyjL.jpg'
-
 ---
+
