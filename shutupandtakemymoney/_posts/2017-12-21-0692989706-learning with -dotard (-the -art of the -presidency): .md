@@ -1,7 +1,6 @@
 ---
-title: |-
-  # shorten me 
-   Learning with Dotard (The Art of the Presidency): Anti-Trump Novelty Gift
+title: >
+   Learning with Dotard (The Art of the Presidency)
 name: 'Learning with Dotard (The Art of the Presidency): Anti-Trump Novelty Gift'
 date: '2017-12-21 10:15:25'
 buy_now: >-
@@ -9,7 +8,7 @@ buy_now: >-
 description_markdown: |-
   Learning with Dotard (The Art of the Presidency): Anti-Trump Novelty Gift
 
-   
+
 tweet_id_str: '943907774315970560'
 price: $10.95
 list_price: ''
@@ -17,5 +16,4 @@ deal_price: ''
 you_save: ''
 asin: 0692989706
 image: 'https://images-na.ssl-images-amazon.com/images/I/61GhZwqw04L.jpg'
-
 ---
