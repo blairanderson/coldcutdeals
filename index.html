@@ -7,19 +7,36 @@ layout: default
 <div class="content" id="products">
 	<section>
 		<div class="container">
-			{% if false and jekyll.environment != 'production' %}
+			{% if jekyll.environment != 'production' %}
 			<div>
 				<ul>
 					{% for p in site.posts  %}
 						{% assign size = p.title | size %}
-						{% if size > 60 or size < 11 %}
-							<li><code>{{p.asin}}</textarea></li>
+						{% if size < 11 %}
+							<li><code>{{p.asin}} - {{p.title}}</code></li>
+						{% endif %}
+					{% endfor %}
+				</ul>
+				<ul>
+					{% for p in site.posts  %}
+						{% assign size = p.title | size %}
+						{% if size > 60 %}
+							<li><code>{{p.asin}} - {{p.title}}</code></li>
 						{% endif %}
 					{% endfor %}
 				</ul>
 			</div>
 			{% endif %}
 
+			<style media="screen">
+				.PS4Deals {
+					background-color: blue;
+				}
+				.GoldBox {
+					background: gold;
+				}
+
+			</style>
 			<ul class="product-list">
 				{% for post in paginator.posts %}
 					{% include product-styles.html product=post catlink=true %}

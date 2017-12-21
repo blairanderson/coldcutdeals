@@ -8,8 +8,8 @@
 	</div>
 	<div class="product-details">
 		<h4><a href="{{ include.product.url }}">{{ include.product.title }}</a></h4>
-		{% if include.catlink == true and include.product.categories %}
-			<a href="/{{include.product.categories}}/">{{include.product.categories}}</a>
+		{% if include.catlink == true and include.product.categories and include.product.categories != '' %}
+			<a class="white pv0 ph3 no-underline hover-bg-black br3 {{include.product.categories}}" href="/{{include.product.categories}}/">{{include.product.categories}}</a>
 		{% endif %}
 	</div>
 </li>
