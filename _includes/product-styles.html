@@ -7,9 +7,15 @@
 		</div>
 	</div>
 	<div class="product-details">
-		<h4><a href="{{ include.product.url }}">{{ include.product.title }}</a></h4>
 		{% if include.catlink == true and include.product.categories and include.product.categories != '' %}
-			<a class="white pv0 ph3 no-underline hover-bg-black br3 {{include.product.categories}}" href="/{{include.product.categories}}/">{{include.product.categories}}</a>
+			{% assign parts = include.product.title | split: "#" %}
+			<h4>
+				<a class="no-underline" href="{{ include.product.url }}">{{parts[0]}}</a>
+				<a class="white pv0 ph3 no-underline hover-bg-black br3 fw6 {{include.product.categories}}" href="/{{include.product.categories}}/">#{{include.product.categories}}</a>
+			</h4>
+		{% else %}
+			<h4><a href="{{ include.product.url }}">{{include.product.title}}</a></h4>
 		{% endif %}
+
 	</div>
 </li>
